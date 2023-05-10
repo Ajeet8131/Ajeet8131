@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ajeet Kumar</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
-<img align="right" alt="coding" width="300" hight="800" src="https://user-images.githubusercontent.com/31332352/119162644-9ec37580-ba28-11eb-8e73-b76149197a1e.gif">
+<img align="right" alt="coding" width="400" hight="800" src="https://user-images.githubusercontent.com/31332352/119162644-9ec37580-ba28-11eb-8e73-b76149197a1e.gif">
 - 🌱 I’m currently learning **Python and Statistics**
 
 - 📫 How to reach me **https://instagram.com/kumarajeet8131?igshid=ZGUzMzM3NWJiOQ==**
